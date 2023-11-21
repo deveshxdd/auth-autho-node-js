@@ -1,0 +1,10 @@
+for learning authincation and authorization we need to learn 
+some packages installation
+
+1- npm i passport passport-local passport-local-mongoose
+express-session mongoose
+write app.js code first in app.js file
+and write it after view engine and before logger
+
+setup user.js
+in index.js try regester first and then other codes as well 
